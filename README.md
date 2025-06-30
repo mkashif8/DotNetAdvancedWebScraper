@@ -40,10 +40,10 @@ DotNetAdvancedWebScraper/
 ## 📸 Screenshots
 
 ### 🎯 Dashboard View
-![Dashboard Screenshot](assets/scrapper dashboard.jpg)
+![Dashboard Screenshot](assets/scrapper-dashboard.jpg)
 
 ### 🧾 Configuration UI
-![Config Screenshot](assets/scrapper config.jpg)
+![Config Screenshot](assets/scrapper-config.jpg)
 
 
 ## 📬 Need Custom Scraper?
